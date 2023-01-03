@@ -1,0 +1,27 @@
+{
+  "name": "three-demos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luch1994/three-demos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luch1994/three-demos/issues"
+  },
+  "homepage": "https://github.com/luch1994/three-demos#readme",
+  "devDependencies": {
+    "@types/three": "^0.147.1",
+    "vite": "^4.0.3"
+  },
+  "dependencies": {
+    "three": "^0.148.0"
+  }
+}
